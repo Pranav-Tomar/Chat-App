@@ -3,6 +3,7 @@ Real-time chat application built on NodeJS, ReactJS for client side, and Express
 
 
 Procedure to deploy app on local host
+
 i) Clone the repository.
 
 ii) Install node modules in master and Client directory using "npm install".
